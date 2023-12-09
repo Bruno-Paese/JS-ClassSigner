@@ -1,0 +1,23 @@
+{
+  "name": "js-classsigner",
+  "version": "0.1.0",
+  "description": "A way of dinamicaly importing classes based on a context",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "classSigning",
+    "object"
+  ],
+  "author": "Bruno Falcade Paese",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "typescript": "^5.3.3"
+  }
+}
